@@ -1,0 +1,14 @@
+
+body{
+    background: red;
+}
+
+@media only screen and (min-width: 600px){
+     body{
+         background: aqua;
+     }
+ }
+
+.h1do{
+    color: wheat;
+}
